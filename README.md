@@ -95,8 +95,8 @@ experience (servers, switches, firewalls, CCTV, troubleshooting). I care about c
 ---
 
 ## Contact
-- **LinkedIn:** <your LinkedIn URL>
-- **Email:** <your vivianmugo7@gmail.com>
+- **LinkedIn:** <www.linkedin.com/in/habiba-m-65351b262>
+- **Email:** <vivianmugo7@gmail.com>
 - **Portfolio:** (to be added)
 
 > Open to roles in **Full-Stack Development**, **Backend / Platform**, **Automation (n8n)**, and **Blockchain integrations**.
